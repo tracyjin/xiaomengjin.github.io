@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in University of Illinois Urbana Champaign, 2025 (expected)
+* M.S. in Stanford University, 2021
+* B.S. in University of Toronto, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun. 2024 - Aug. 2024: Applied Scientist Intern @ Amazon
+  * Conducted in-depth research and exploration in LLM unlearning
+  * Formulated machine unlearning as a multi-task optimization problem
+  * Proposed an effective LLM unlearning approach that preserves high model utility
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun. 2023 - Aug. 2023: Applied Scientist Intern @ Amazon
+  * Conducted in-depth research in improving LLMs' adversarial robustness
+  * Proposed an efficient prompt attack method to generate adversarial prompts
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jun. 2022 - Aug. 2022: Applied Scientist Intern @ Amazon
+  * Conducted in-depth research in improving NLP models' adversarial robustness
+  * Proposed a novel adversarial attack method with word attribution and disentanglement
+ 
+* Jun. 2020 - Aug. 2020: Software Engineer Intern @ Apple
+  * Designed and implemented a search proxy service in Java that provides an interface between apps and Solr search platform
+  * Deployed on Apple servers to be ready into production, will be used for all Zeus services and Apps in ACS Enterprise Team
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Jan. 2018 - May 2019: Machine Learning Researcher Intern @ Borealis AI
+  * Designed and implemented AdverTorch, a Python toolbox for adversarial robustness research
+  * Explore the effects of the input data distribution on adversarial robustness on trained neural networks
+  * Performed standard neural networks training and projected gradient descent (PGD) based adversarial training on datasets with different scales of transformations, compared the sensitivity of robust accuracy to the input data distribution
+
+* Aug. 2017 - Dec. 2017: Software Engineer Intern @ ScotiaBank
+  * Performed in-depth quantitative analysis on block trades from database and generated daily reports to both clients and traders
+  * Optimized ScotiaBank Order Tracker web application using Java, Javascript, added new features to the IOI posting board
+
+* May. 2016 - Aug. 2016: Software Engineer Intern @ ParseHub
+  * Designed an Undo-Redo algorithm and implemented it via Angular.js that greatly improved productivity
+  * Tailored clients’ needs by establishing the Importing External Template feature to achieve a high level of customer satisfaction
